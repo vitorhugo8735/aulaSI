@@ -1,0 +1,2 @@
+# aulaSI
+aprendendo Python
